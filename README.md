@@ -40,4 +40,4 @@ Project initialized. Dataset collection and preprocessing phase started.
 - Real-time disease detection
 
 ## Author
-Your Name
+Ravi Teja Babu 
