@@ -1,0 +1,22 @@
+Dataset Folder Structure
+
+data/
+└── images/
+    ├── Healthy/
+    │   ├── img1.jpg
+    │   ├── img2.jpg
+    │   └── ...
+    │
+    ├── Bacterial_Spot/
+    │   ├── img1.jpg
+    │   ├── img2.jpg
+    │   └── ...
+    │
+    ├── Early_Blight/
+    └── Late_Blight/
+
+Recommended Dataset:
+PlantVillage Dataset
+
+Download Later:
+https://www.kaggle.com/datasets/emmarex/plantdisease
